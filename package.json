@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "keypair": "node keypair.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1"
+  }
+}
